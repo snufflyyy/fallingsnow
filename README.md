@@ -1,9 +1,14 @@
 # Falling Snow ❄️
 snow can fall belive it or not
 
-## Features?
+### Controls
+ - R to clear all the snow
+ - Left Click to spawn snow
+ - Right Click to remove snow
+
+### Features?
  - written in c
  - using raylib (not included, sorry)
 
-## creator
+### creator
  - made by me
