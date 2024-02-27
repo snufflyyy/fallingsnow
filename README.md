@@ -1,5 +1,5 @@
 # Falling Snow ❄️
-snow can fall belive it or not
+snow can fall believe it or not
 
 ### Controls
  - R to clear all the snow
